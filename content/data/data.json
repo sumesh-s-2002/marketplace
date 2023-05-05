@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "1",
+        "project_topic" : "SOLAR",
+        "project_title" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "project_desc" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "cover_image_url" : "https://images.unsplash.com/photo-1554976326-7b74d5ea44e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=422&q=80",
+        "slug_part" : "solar_project",
+        "date_creared" : ""
+    },
+    {
+        "id" : "2",
+        "project_topic" : "GREEN HOUSE",
+        "project_title" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "project_desc" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "cover_image_url" : "https://plus.unsplash.com/premium_photo-1679607649663-2bf49d9ab5b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+        "slug_part" : "green_project",
+        "date_creared" : ""
+    },
+    {
+        "id" : "3",
+        "project_topic" : "PUBLIC TRANSPORT",
+        "project_title" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "project_desc" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "cover_image_url" : "https://images.unsplash.com/photo-1515344905723-babc01aac23d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+        "slug_part" : "project_public_transport",
+        "date_creared" : ""
+    },
+    {
+        "id" : "4",
+        "project_topic" : "WIND TURBINE",
+        "project_title" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "project_desc" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "cover_image_url" : "https://images.unsplash.com/photo-1556983852-43bf21186b2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
+        "slug_part" : "wind_turbine_project",
+        "date_creared" : ""
+    },
+    {
+        "id" : "5",
+        "project_topic" : "PLASTIC WASTE",
+        "project_title" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "project_desc" :  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "cover_image_url" : "https://images.unsplash.com/photo-1521708266372-b3547456cc2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=419&q=80",
+        "slug_part" : "plastic_waste_project",
+        "date_creared" : ""
+    }
+]

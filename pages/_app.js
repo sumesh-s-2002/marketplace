@@ -1,5 +1,13 @@
-import '@/styles/globals.css'
+import "styles/globals.css";
 
+const Noop = ({children})=>{
+  <>{children}</>
+}
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  const  Layout = Component.layout ?? Noop
+  return (
+    <Layout>
+      <Component {...pageProps} />
+    </Layout>
+  )
 }
